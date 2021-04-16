@@ -1,2 +1,2 @@
-# wurst +2 ez download
+# wurst +2
 e
